@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: hsl(351, 77%, 75%);
+    font-family:  Verdana, DejaVu Sans, sans-serif ;
+}
+#evenone{
+    font-size: 36px;
+    color: hsl(240, 89%, 40%);
+}
+.cooler{
+    font-size: 24px;
+}
+#eventwo{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
